@@ -1,0 +1,2 @@
+# modelomatematico
+Modelo Matematico Predicción
