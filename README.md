@@ -7,13 +7,12 @@ python -m venv entorno
 entorno\Scripts\activate
 
 # Preparamos las librerías 
-pip install pandas==1.2.5
-pip install scikit-learn==0.24.2
+pip install pandas
 pip install Flask
 pip install tensorflow
 
 ó 
-pip install -r nombre_archivo.txt
+pip install -r requerimientos.txt
 
 
 # Desactivamos el entorno virtual
